@@ -14,4 +14,4 @@ runs/
 
 # Never commit your API key
 .env
-   /*.pt
+/*.pt
